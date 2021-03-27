@@ -13,10 +13,37 @@ body{
     text-align: center;
     background-color: #fff;
     padding: 0 5% 80px 5%;
+    color: #2c5311;
 }
 
 .heading {
     padding-top: 80px;
     padding-bottom: 50px;
-    color: #2c5311;
+}
+
+.heading h2 {
+    font-weight: bold;
+    font-family: "Futura Hv BT";
+    font-size: 50px;
+}
+
+.heading p {
+    font-size: 40px;
+    line-height: 13px;
+}
+
+.menu {
+    float:left;
+    width: 25%;
+}
+
+.menu-icon img{
+    height: 180px;
+}
+
+.text-contents {
+    display: inline-block;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 20px
 }
